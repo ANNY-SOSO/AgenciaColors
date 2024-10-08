@@ -1,4 +1,4 @@
-# 🎨 Meu Projeto na Agência Colors - Criação de Site
+# 🎨 Agência Colors - Criação de Site
 
 Este projeto foi elaborado para a **Agência Colors**, com o objetivo de criar um site responsivo que apresente os serviços e produtos da agência, focando em design UX, branding e UI Design.
 
